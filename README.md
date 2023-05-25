@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Lucaaa66666/Lucaaa66666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My Skillset:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (Advanced)
+- TypeScript
+- JavaScript (Beginner)  =>  Currently learning
+- HTML // CSS // GFX (Intermediate)
+- PHP (Intermediate)
+- LUA (Intermediate)
+- SQL (Advanced)
+
+
+Threema: 6ZHDKACX
